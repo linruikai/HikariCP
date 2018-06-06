@@ -1,0 +1,1 @@
+## spring boot 2.0 以上的版本中自动集成了，可以在properties文件中直接进行配置 
